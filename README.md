@@ -1,6 +1,6 @@
-# 📂 Folderly – WordPress Media Library Folders
+# 📂 Folderlyzer – WordPress Media Library Folders
 
-Folderly is a WordPress plugin that transforms your Media Library into a clean, folder‑based workspace. Organize your media files with drag‑and‑drop, color labels, bulk actions, and per‑user privacy — all without breaking URLs or moving files on disk.
+Folderlyzer is a WordPress plugin that transforms your Media Library into a clean, folder‑based workspace. Organize your media files with drag‑and‑drop, color labels, bulk actions, and per‑user privacy — all without breaking URLs or moving files on disk.
 
 ## 🚀 Features
 - Create unlimited folders & sub‑folders
@@ -13,7 +13,7 @@ Folderly is a WordPress plugin that transforms your Media Library into a clean, 
 - Compatible with Gutenberg & page builders
 
 ## 🔗 Product Page
-👉 [View the live product page](https://yourdomain.com/folderly)
+👉 [View the live product page](https://yourdomain.com/Folderlyzer)
 
 ## 💳 Plans & Pricing
 - **Free** – Basic folders, drag & drop, colors, counts
@@ -21,11 +21,11 @@ Folderly is a WordPress plugin that transforms your Media Library into a clean, 
 - **Pro (Team)** – $59/year, 5 sites, private folders, role‑based
 - **Pro (Agency)** – $99 lifetime, unlimited sites, white‑label ready
 
-👉 [See detailed pricing & features](https://codesolz.net/our-products/wordpress-plugin/folderly-smart-media-library-folders/)
+👉 [See detailed pricing & features](https://codesolz.net/our-products/wordpress-plugin/Folderlyzer-smart-media-library-folders/)
 
 ## 📖 Documentation
-- [Quick Start Guide](https://docs.codesolz.net/folderly-smart-media-library-folders)
-- [FAQ](https://docs.codesolz.net/folderly-smart-media-library-folders/faq)
+- [Quick Start Guide](https://docs.codesolz.net/Folderlyzer-smart-media-library-folders)
+- [FAQ](https://docs.codesolz.net/Folderlyzer-smart-media-library-folders/faq)
 
 
 ## 📜 License
